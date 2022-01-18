@@ -23,4 +23,3 @@ const taskSchema = new Schema({
 })
 
 export default model('Task', taskSchema);
-// mongodb+srv://main_user:Pass0123@cluster0.blwpf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
